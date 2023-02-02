@@ -1,0 +1,25 @@
+*{
+margin: 0;
+padding: 0;
+box sizing: border-box;
+}
+
+body{
+    background-color: #fffffe;
+    text-align: center;
+}
+
+h1{
+    color: #e53170;
+}
+
+#app-header{
+    padding: 2rem;
+}
+
+/* main */
+
+.container{
+    display: inline-block;
+    width: 80%;
+}
